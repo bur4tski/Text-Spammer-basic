@@ -9,3 +9,6 @@ Enjoy the program and fuck your friend haha
 EXIT is not built but you can exit through ctrl d or any function in your
 Terminal or IDE. 
 
+How TO CLONE
+
+
